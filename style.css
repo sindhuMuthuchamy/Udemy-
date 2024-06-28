@@ -125,7 +125,7 @@ body{
     text-align: center;
     flex-wrap: nowrap;
     flex-grow: 0;
-    flex-basis: 350px;
+    flex-basis: 10%;
     padding-left:20px;
     color: grey;
 }
