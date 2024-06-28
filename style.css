@@ -126,6 +126,7 @@ body{
     flex-wrap: nowrap;
     flex-grow: 0;
     flex-basis: 350px;
+    padding-left:20px;
     color: grey;
 }
 .topics__container p:hover{
